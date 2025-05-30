@@ -1,1 +1,3 @@
 grupo 10 nuestra idea es crear un proyecto, basado en comercio busca resolver la disponibilidad para entregas y la organización de stock disponible. tiene como función modificar y tener un control de stock para la organización de entregas y asi poder realizar mas rapido los despacho de pedidos clientes interesados en la compra de estos productos integrantes del equipo: Ozan Fernanda Nieve tengo 31 años y me desempeño en el uso de programas basicos, intentando poder aprender a programar con los programas que ofrecen y Andrea Jimena del valle Palma tengo 46 años y tengo conocimiento basicos de informática y con ganas de aprender a programar.
+
+Soy Andrea y si bien me cuesta todo esto, le pongo ganas. 
